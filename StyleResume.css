@@ -1,0 +1,38 @@
+body{
+    background: white;
+}
+
+header{
+    background-color: white;
+    font-size: 14px;
+}
+
+h1{
+    background: rgba(215, 210, 212, 0.162);
+    font-size: 30px;
+    font-style: normal;
+    padding: 10px;
+    text-align: center;
+}
+
+h2{
+    background-color: rgb(186, 148, 148);
+    font-size: 20px;
+    text-align: left;
+    padding: 40px, 30px, 20px, 20px;
+}
+
+div{
+    background: rgba(75, 33, 47, 0.097);
+    font-size: 12px;
+    font-family: Helvetica;
+    line-height: 15px;
+    padding: 1px 5px 3px 5px;
+    margin: 5px;
+    border: 1px dashed blue;
+    text-align: justify;
+}
+
+div#github {
+    background-color: rgba(138, 126, 126, 0.401);
+}
